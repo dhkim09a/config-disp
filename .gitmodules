@@ -1,0 +1,6 @@
+[submodule "displayplacer"]
+	path = displayplacer
+	url = ./displayplacer
+[submodule "pyutil"]
+	path = pyutil
+	url = ./pyutil
