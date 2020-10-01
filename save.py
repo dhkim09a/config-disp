@@ -48,6 +48,3 @@ class Save(Subcommand):
         with open(args.config, 'w+') as f:
             cp.write(f)
 
-    def __init__(self, subparsers):
-        super(self.__class__, self).__init__(self.NAME, subparsers)
-
